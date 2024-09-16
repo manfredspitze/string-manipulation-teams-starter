@@ -17,6 +17,7 @@ On your team's slip of paper:
 - then think of a short, classroom-friendly string and write it down on the paper
 - then write a set of instructions for the other team you'll exchange slips of paper with
 - choose two (2) string methods from the list below and include them in your instructions for the other team
+- your teacher will tell you when to switch slips of paper with another team
 
 **Example Instructions:**
 
