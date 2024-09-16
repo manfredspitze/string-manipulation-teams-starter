@@ -4,7 +4,7 @@
 ### Getting Started
 
 - Work with your assigned team
-- Review on w3schools.com **any two** of the string methods listed below
+- Review on w3schools.com **any two** of the string methods listed below under **Helpful Resources**
 - Run the Try It Yourself example code for each string method assigned to your team
 - Make sure your group understands how your assigned string methods work
 
