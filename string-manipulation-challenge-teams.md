@@ -40,3 +40,19 @@ On your team's slip of paper:
 - endswith ( )
 - format ( )
 
+### Writing Your Code
+
+1. Create for your team an empty project folder on your workstation's Desktop named: **string-methods-practice**
+
+2. Add an empty Python file called `string_methods.py` to your project folder.
+
+3. Add a comment block to the top of your script that lists the names of the people in your team and the current date.
+
+4. Drag and drop the string-methods-practice folder onto the Visual Studio Code shortcut to open your team's project folder.
+
+5. Follow the instructions the other group gave your group; use VS Code to add your code to your string_methods.py file.
+
+6. Run and debug your script in VS Code.
+
+7. Attach and submit your group's finished script to the **1.7 Strings Methods (Part 1)** assignment on Google Classroom.
+
