@@ -4,20 +4,23 @@
 ### Getting Started
 
 - Work with your assigned team
-- Review on w3schools.com **any two** of the string methods listed below under **Helpful Resources**
-- Run the Try It Yourself example code for each string method assigned to your team
-- Make sure your group understands how your assigned string methods work
+- Review on w3schools.com **as a team** 3 - 4 string methods 
+- Run the **Try It Yourself** example code for each string method your team investigates
+- Make sure your team understands how each string method works
 
+### Helpful Resources
 
-### What Your Team Needs to Create Today
+- See the list of [Python string methods](https://www.w3schools.com/python/python_strings_methods.asp) on the w3schools.com website
+
+### What Your Team Needs to Do Today
 
 On your team's slip of paper:
 
 - write your team members' names at the top of the slip of paper
 - then think of a short, classroom-friendly string and write it down on the paper
 - then write a set of instructions for the other team you'll exchange slips of paper with
-- choose two (2) string methods from the list below and include them in your instructions for the other team
-- your teacher will tell you when to switch slips of paper with another team
+- choose two (2) string methods from the list below
+- tell the other team how they should use the two string methods with the string your group came up with 
 
 **Example Instructions:**
 
@@ -28,14 +31,11 @@ On your team's slip of paper:
 - find ()
 - isdigit ( )
 - isalpha ( )
-- capitalize ( )
+- capitalize ( ) # Capitalize the first letter of the string
 - upper ( )
-- count ( )
+- count ( ) # Tell Python to count the number of characters in the string
 - replace ( ) 
 - startswith ( )
 - endswith ( )
 - format ( )
 
-### Helpful Resources
-
-- See the list of [Python string methods](https://www.w3schools.com/python/python_strings_methods.asp) on w3schools.com
