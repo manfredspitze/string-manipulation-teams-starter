@@ -52,7 +52,9 @@ On your team's slip of paper:
 
 5. Follow the instructions the other group gave your group; use VS Code to add your code to your string_methods.py file.
 
-6. Run and debug your script in VS Code.
+6. Write your code AS A TEAM -- one person can type, but the others should decide what code to write.
+
+6. Run and debug your script in VS Code; everyone in the group should help find and correct any errors in the code.
 
 7. Attach and submit your group's finished script to the **1.7 Strings Methods (Part 1)** assignment on Google Classroom.
 
