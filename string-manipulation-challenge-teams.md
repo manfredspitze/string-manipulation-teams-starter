@@ -6,6 +6,7 @@
 - Work with your assigned team
 - Review on w3schools.com **as a team** 3 - 4 string methods 
 - Run the **Try It Yourself** example code for each string method your team investigates
+    - [**Try It Yourself**](https://www.w3schools.com/python/ref_string_isupper.asp) for the `isupper ( )` string method
 - Make sure your team understands how each string method works
 
 ### Helpful Resources
