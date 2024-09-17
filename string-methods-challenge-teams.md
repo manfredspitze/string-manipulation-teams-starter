@@ -1,4 +1,4 @@
-## Python: String Manipulation
+## Python: String Methods
 
 
 ### Getting Started
